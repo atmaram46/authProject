@@ -11,8 +11,8 @@ Details for Creating Okta Account:
         Controlled Access: Allow everyone.
 
 6. Client Id is generated.
-    Client ID: 0oa68j2weqYh2zxfX5d7
-    Client Secret: E8xrhoaIvCBF5kI6rNON23LWL4oqcEs-MCrtrDW9
+    Client ID: sdfasdad
+    Client Secret: ASDasd-MCrtrDW9
 
 
 7. We need an authorization server as we don't have one available with us.
@@ -34,6 +34,6 @@ Details for Creating OAuth 2.0 account:
     4.2 Click on Create OAuth client ID and enter the required details.
 
 5. Copy the client id and secret. 
-    Client id: 1000736276059-t5p3ordcah2ufmisqrdh6u554rj1scpm.apps.googleusercontent.com
-    Client Secret: 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
+    Client id: aDSasd-ASDads.apps.googleusercontent.com
+    Client Secret: ADSas-ADSas
 6. Include Google APIs Client Library for Java in pom.xml
